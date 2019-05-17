@@ -1,9 +1,9 @@
 h1 {
-  color: blue;
+  color: darkred;
   background-color: lightgray;
   border: 1px solid black;
 }
 
-p {
-  color: red;
+html {
+  background-color: lightgray;
 }
